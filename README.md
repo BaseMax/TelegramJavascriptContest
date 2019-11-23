@@ -1,3 +1,5 @@
+# Telegram Web
+
 # Telegram Javascript Contest
 
 A mirror for Telegram Javascript Contest Stage 1.
@@ -6,7 +8,7 @@ https://contest.com/javascript-web
 
 Let's to read code, This will be help you to learn many new things...
 
-## Projects Lists
+## Project List
 
 - [Neat Croc](1/)
 
