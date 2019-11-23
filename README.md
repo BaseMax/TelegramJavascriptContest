@@ -3,3 +3,7 @@
 A mirror for Telegram Javascript Contest Stage 1.
 
 https://contest.com/javascript-web
+
+## Lists
+
+- [Neat Croc](1/)
