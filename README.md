@@ -4,6 +4,8 @@ A mirror for Telegram Javascript Contest Stage 1.
 
 https://contest.com/javascript-web
 
+Let's to read code, This will be help you to learn many new things...
+
 ## Projects Lists
 
 - [Neat Croc](1/)
